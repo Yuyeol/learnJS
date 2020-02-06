@@ -5,3 +5,4 @@ title.innerHTML = "Hi! From JS";//title의 H1에 있는 텍스트를 요것으�
 title.style.color = 'yellow';
 document.title = 'I own you now'//페이지 제목을 바꿔봤다.
 console.log(title);
+
